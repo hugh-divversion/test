@@ -8,7 +8,12 @@
   <RemoteName>divvorigin</RemoteName>
   <RemoteUrl>https://github.com/hugh-divversion/test.git</RemoteUrl>
   <ContentTypes />
-  <Participants />
+  <Participants>
+    <User Id="5be6241a-966c-4cc5-92ab-17c1423928e0">
+      <DisplayName>Hugh</DisplayName>
+      <Email>hugh@divversion.com</Email>
+    </User>
+  </Participants>
   <ManagedBranches>
     <BranchSpec>main</BranchSpec>
   </ManagedBranches>
