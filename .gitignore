@@ -1,0 +1,8 @@
+##### Divversion auto-generated .gitignore #####
+##### Purposes:  #####
+
+### Default ###
+.DS_Store
+Desktop.ini
+Thumbs.db
+
