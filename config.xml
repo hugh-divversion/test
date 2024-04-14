@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RepoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>11ec3225-cc0b-4c61-8b23-f0201773d615</Id>
+  <Name>test</Name>
+  <IsPublic>true</IsPublic>
+  <StorageHostId>github</StorageHostId>
+  <StorageName>test</StorageName>
+  <RemoteName>divvorigin</RemoteName>
+  <RemoteUrl>https://github.com/hugh-divversion/test.git</RemoteUrl>
+  <ContentTypes />
+  <Participants />
+  <ManagedBranches>
+    <BranchSpec>main</BranchSpec>
+  </ManagedBranches>
+  <SynchronizationTrigger>OnCommit</SynchronizationTrigger>
+</RepoConfiguration>
